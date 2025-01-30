@@ -1,69 +1,72 @@
 navbar_entries:
-  - title: about
+  - title: HOME
     url: about
 
-  - title: blog
+  - title: ABOUT
+    url: about
+
+  - title: CATEGORIES
     url: blog
 
-  - title: website
+  - title: RESUME
     url: https://www.abhinav.co
 
 project_entries:
   - title: Project 1
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: THM
 
   - title: Project 2
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: HTB
 
   - title: Project 3
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: CTF
 
   - title: Project 4
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: BLOG
     highlight: WIP
 
   - title: Project 5
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: PROJECTS
     highlight: WIP
 
   - title: Project 6
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: TEST
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+# old_project_entries:
+#   - title: Soopr
+#     url: https://www.soopr.co
+#     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+#     highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+#   - title: Cookie
+#     url: https://github.com/abhinavs/cookie
+#     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+#   - title: Moonwalk
+#     url: https://github.com/abhinavs/moonwalk
+#     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+#   - title: Humangous
+#     url: https://www.humangous.co
+#     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
+  - title: LINKEDIN
     url: https://www.abhinav.co
 
-  - title: twitter
+  - title: X
     url: https://twitter.com/abhinav
 
-  - title: github
+  - title: GITHUB
     url: https://github.com/abhinavs
 
-  - title: feed
+  - title: MEDIUM
     url: feed.xml
 
 misc_entries:

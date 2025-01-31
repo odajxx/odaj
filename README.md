@@ -21,9 +21,9 @@
 * Share & like buttons (using [Soopr](https://www.soopr.co))
 
 
-#### Lighthouse
+<!-- #### Lighthouse
 
-<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png" />
+<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png" /> -->
 
 ## Quick Installation
 1. [Fork this repository](https://github.com/abhinavs/moonwalk/fork).

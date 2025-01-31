@@ -3,16 +3,29 @@ layout: default
 ---
 
 <header>
-{% if site.theme_config.show_navbar == true %}
-  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-  <div class="dashed"></div>
-{% endif %}
+  {% if site.theme_config.show_navbar == true %}
+    <div class="navbar">
+      <!-- Bold LOGO on the left -->
+      <h1 class="logo">LOGO</h1>
+
+      <!-- Navigation links on the right -->
+      <nav>
+        {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+      </nav>
+    </div>
+    <div class="dashed"></div>
+  {% endif %}
 
   <h1>{{ site.title }}</h1>
+
+  <!-- Add a custom subtitle -->
+  <p class="subtitle">Your go-to place for cybersecurity writeups and projects</p>
+
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
   {% endif %}
 </header>
+
 
 {{ content }}
 

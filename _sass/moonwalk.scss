@@ -221,3 +221,33 @@ p code, li code {
   text-transform: lowercase;
   //border: 1px solid var(--text-secondary);
 }
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 10px 20px;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 24px;
+  margin: 0;
+}
+
+.horizontal-list {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+.horizontal-list li {
+  display: inline;
+}
+
+.dashed {
+  border-top: 1px dashed var(--text);
+  margin-top: 0px;
+}

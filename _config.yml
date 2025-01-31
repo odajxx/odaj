@@ -1,9 +1,9 @@
-title: Moonwalk
-author: Abhinav Saxena
+title: Jamal
+author: ---
 url: https://odajxx.github.io # root address of the site
 baseurl: "" # leave this empty for root-level deployment
 description: > # description of the site (multiple lines allowed)
-  Jamal.
+  I'm a passionate Cybersecurity Expert. Join me as I share my journey, record my challenges, and showcase my projects in cybersecurity!
 
 permalink: /:slug
 

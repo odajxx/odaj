@@ -2,7 +2,7 @@ navbar_entries:
   - title: HOME
     url: about
 
-  - title: ABOUT
+  - title: WHOAMI
     url: about
 
   - title: CATEGORIES
@@ -58,16 +58,17 @@ project_entries:
 
 footer_entries:
   - title: LINKEDIN
-    url: https://www.abhinav.co
+    url: https://linkedin.com/in/your-profile
 
   - title: X
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/yourhandle
 
   - title: GITHUB
-    url: https://github.com/abhinavs
+    url: https://github.com/yourgithub
 
-  - title: MEDIUM
-    url: feed.xml
+  - title: LINKEDIN
+    url: https://www.abhinav.co
+
 
 misc_entries:
   - title: this is an example vertical list
